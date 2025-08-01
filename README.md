@@ -20,9 +20,9 @@
 .
 ├── README.md                                # Descrição do repositório
 ├── Ambientes/
-│   ├── config.txt                           # Informações sobre os computadores utilizados
+│   ├── config.txt                           # Informações sobre o ambiente local
+|   ├── config_colab.txt                     # Informações sobre o ambiente do Google Colab
 │   ├── requirements_colab.txt               # Dependências gerais do Google Colab
-│   └── requirements_estruturacao.txt        # Dependências para estruturação de dados
 ├── Diários/
 │   ├── relatório_01_08_2025_1.md            # Estruturação de informações de documentos PDFs em planilha
 │   └── relatório_01_08_2025_2.md            # Separação dos conjuntos de teste e validação
