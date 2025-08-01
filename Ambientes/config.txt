@@ -1,0 +1,11 @@
+===============================================
+SISTEMA OPERACIONAL: Microsoft Windows 10 Home 10.0.19045
+PROCESSADOR: AMD Ryzen 5 5500                               
+MEMÓRIA TOTAL: 15.89 GB
+GPU: AMD Radeon RX590 GME
+NOME DO COMPUTADOR: DESKTOP-29RA3DI
+USUÁRIO: Hermengardo
+python (global): 3.13.5
+pixi: 0.49.0
+conda: 25.5.1
+===============================================
