@@ -18,12 +18,14 @@
 ## Árvore de diretórios
 ```
 .
-├── README.md # Descrição do repositório
-├── Setups/
-│   ├── config.txt # Informações sobre os computadores utilizados
-├── Relatórios/
-│   └── relatório_01_08_2025_1.md # Extração de informações de documentos pdfs
-|   └── relatório_01_08_2025_2.md # Extração de informações de documentos pdfs
-└── Scripts/
-    └── .
+├── README.md                                # Descrição do repositório
+├── Ambientes/
+│   ├── config.txt                           # Informações sobre os computadores utilizados
+│   ├── requirements_colab.txt               # Dependências gerais do Google Colab
+│   └── requirements_estruturacao.txt        # Dependências para estruturação de dados
+├── Diários/
+│   ├── relatório_01_08_2025_1.md            # Estruturação de informações de documentos PDFs em planilha
+│   └── relatório_01_08_2025_2.md            # Separação dos conjuntos de teste e validação
+└── Scripts/                                 # Diretório reservado para scripts
+    └── .                                    
 ```
