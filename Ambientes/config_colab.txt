@@ -1,0 +1,9 @@
+===============================================
+SISTEMA OPERACIONAL: Ubuntu 22.04.4 LTS 6.1.123+
+PROCESSADOR: Intel(R) Xeon(R) CPU @ 2.20GHz
+MEMÓRIA TOTAL: 12Gi
+GPU: Nenhuma GPU NVIDIA disponível
+NOME DO COMPUTADOR: 280b9fc4330f
+USUÁRIO: 
+Python 3.11.13
+===============================================
