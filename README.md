@@ -23,9 +23,7 @@
 │   ├── config.txt                           # Informações sobre o ambiente local
 |   ├── config_colab.txt                     # Informações sobre o ambiente do Google Colab
 │   ├── requirements_colab.txt               # Dependências gerais do Google Colab
-├── Diários/
-│   ├── relatório_01_08_2025_1.md            # Estruturação de informações de documentos PDFs em planilha
-│   └── relatório_01_08_2025_2.md            # Separação dos conjuntos de teste e validação
+├── Diários/                                
 └── Scripts/                                 # Diretório reservado para scripts
     ├── Estruturando_os_dados.ipynb          # Extração de variáveis de arquivos PDF
     └── Seleção_de_Amostra.ipynb             # Divisão de dados extraídos em conjuntos de teste e validação  
