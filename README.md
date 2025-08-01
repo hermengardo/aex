@@ -15,7 +15,7 @@
 - [ ] Objetivo 2: Classificação de material – Direção  
 - [ ] Objetivo 3: Clusterização
 
-## Árvore de diretórios
+## Árvore de Diretórios
 ```
 .
 ├── README.md                                # Descrição do repositório
